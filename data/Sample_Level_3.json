@@ -1,24 +1,12 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 13519,
+    "name": "The Nightmare",
+    "author": "Jax",
+    "creators": ["Jax"],
+    "verifier": "LetzTiz",
+    "verification": "https://youtu.be/wXiDpYhrmKc?si=0NDTkCYOSTXN8Jmt",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "No Copy",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
